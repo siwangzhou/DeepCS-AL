@@ -16,7 +16,7 @@ The folder AT-CSNet-Ck stores the AT-CSNet-VGG models separately trained with Ci
 ### AT-BCSNet-Ck
 Similar to the folder AT-CSNet-Ck, the trained AT-BCSNet-VGG models are stored in folder AT-BCSNet-Ck.
 
-###AT-G
+### AT-G
 These trained AT-CSNet and AT-BCSNet model are stored in folder AT-G. The corresponding source python codes are AT-CSNet.py and AT-BCSNet.py.
 
 Any questions, please contact us at swzhou@hnu.edu.cn.
